@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto de Grado - Domótica y Edificios Inteligentes</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #e3f2fd;
+            color: #333;
+        }
+        header {
+            background-color: #1565c0;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            font-size: 24px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+            padding: 20px;
+        }
+        .section {
+            background: white;
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        h2 {
+            color: #0d47a1;
+        }
+        .authors {
+            text-align: center;
+            background-color: #bbdefb;
+            padding: 10px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Proyecto de Grado: Domótica y Edificios Inteligentes</h1>
+        <p>Academia Naval Fragata Guayas - Bachillerato Técnico en Informática</p>
+    </header>
+    <div class="container">
+        <div class="authors">
+            <h2>Autores del Proyecto</h2>
+            <p>Fiona Briones, Helen Zambrano, Pierre Sancan, Alisson Mejia, Teresa Chavez, Stalin Paredes, Jeremy Veloz, Paula Rivas</p>
+        </div>
+        <div class="section">
+            <h2>¿Qué es la Domótica?</h2>
+            <p>La domótica es el conjunto de tecnologías aplicadas al control y automatización inteligente de viviendas y edificios, permitiendo gestionar la iluminación, temperatura, seguridad y electrodomésticos de manera remota. Su propósito es mejorar la calidad de vida, la seguridad y la eficiencia energética.</p>
+            <p>Gracias a los avances en la tecnología, es posible controlar los dispositivos del hogar desde un smartphone o asistente de voz. Esta tecnología ofrece comodidad y facilita la vida cotidiana.</p>
+        </div>
+        <div class="section">
+            <h2>¿Qué son los Edificios Inteligentes?</h2>
+            <p>Los edificios inteligentes son estructuras diseñadas con tecnologías avanzadas para optimizar el uso de energía, mejorar la seguridad y brindar mayor comodidad a sus ocupantes. Estos edificios incorporan sistemas automatizados que permiten gestionar iluminación, climatización, accesos y seguridad de manera eficiente.</p>
+            <p>Además, están diseñados para ser sostenibles, reduciendo el impacto ambiental y mejorando la calidad de vida de quienes los habitan o utilizan. Su integración con sensores y dispositivos IoT permite una gestión inteligente basada en datos en tiempo real.</p>
+        </div>
+        <div class="section">
+            <h2>Beneficios de los Edificios Inteligentes</h2>
+            <ul>
+                <li><strong>Ahorro energético:</strong> Optimiza el consumo de electricidad y agua mediante sensores inteligentes.</li>
+                <li><strong>Mayor confort y seguridad:</strong> Permite controlar accesos, videovigilancia y alarmas en tiempo real.</li>
+                <li><strong>Automatización de sistemas:</strong> Configuración de escenarios personalizados según las necesidades del usuario.</li>
+                <li><strong>Integración con asistentes virtuales:</strong> Compatibilidad con dispositivos como Alexa, Google Home y Siri.</li>
+                <li><strong>Monitoreo en tiempo real:</strong> Permite conocer el estado del hogar o la oficina desde cualquier lugar.</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Aplicaciones</h2>
+            <p>La domótica se encuentra presente en múltiples áreas, desde sistemas de iluminación inteligente hasta sensores de seguridad. Sus aplicaciones más destacadas incluyen:</p>
+            <ul>
+                <li><strong>Control de iluminación y climatización eficiente:</strong> Regulación automática de luces y temperatura según la presencia de personas.</li>
+                <li><strong>Automatización de puertas y ventanas:</strong> Uso de sensores para apertura y cierre automatizados.</li>
+                <li><strong>Vigilancia y seguridad en tiempo real:</strong> Integración con cámaras y alarmas para mejorar la seguridad.</li>
+                <li><strong>Gestión inteligente del consumo energético:</strong> Supervisión y reducción del uso de electricidad y agua.</li>
+                <li><strong>Asistencia para personas con movilidad reducida:</strong> Creación de ambientes accesibles mediante control por voz.</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h2>Conclusión</h2>
+            <p>Los avances en la domótica y los edificios inteligentes están revolucionando la forma en que interactuamos con nuestro entorno. Gracias a estas tecnologías, es posible optimizar el consumo energético, mejorar la seguridad y aumentar el confort en hogares y oficinas. La integración de la inteligencia artificial y el Internet de las Cosas nos permite vivir en espacios más eficientes y sostenibles.</p>
+            <p>Agradecemos su atención a este proyecto y esperamos que esta información haya sido de utilidad para comprender el impacto y los beneficios de la domótica en nuestra vida diaria.</p>
+        </div>
+    </div>
+</body>
+</html>
